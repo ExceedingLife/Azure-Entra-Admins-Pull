@@ -1,3 +1,7 @@
+<# Created by Andrew Harkins
+    Script to get all Azure Admin Roles and their members.
+#>
+
 # Install packages if needed:
 #Install-Module Microsoft.Graph -Scope CurrentUser
 
